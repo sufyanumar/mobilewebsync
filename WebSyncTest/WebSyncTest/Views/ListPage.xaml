@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WebSyncTest.Views.ListPage">
+    <ContentPage.Content>
+        <StackLayout Padding="5,5,5,5">
+            <Label Text="This is Msgs Page"
+                VerticalOptions="Start" 
+                HorizontalOptions="Start" />
+            <Entry Placeholder="Enter Chat ID" Text="{Binding ChatID}"/>
+            <ListView ItemsSource="{Binding Msgs}">
+                <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding .}" />
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Click to Subscribe" VerticalOptions="End" Command="{Binding SubscribeChat}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

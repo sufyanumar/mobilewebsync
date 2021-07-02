@@ -1,0 +1,15 @@
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\bin\Debug\netstandard2.0\WebSyncTest.deps.json
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\bin\Debug\netstandard2.0\WebSyncTest.dll
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\bin\Debug\netstandard2.0\WebSyncTest.pdb
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.csprojAssemblyReference.cache
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.AssemblyInfoInputs.cache
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.AssemblyInfo.cs
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.csproj.CoreCompileInputs.cache
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.csproj.CopyComplete
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.dll
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.pdb
+E:\Sufyan\Demo\WebSyncTest\WebSyncTest\WebSyncTest\obj\Debug\netstandard2.0\WebSyncTest.GeneratedMSBuildEditorConfig.editorconfig
